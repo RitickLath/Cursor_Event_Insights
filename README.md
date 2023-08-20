@@ -3,6 +3,14 @@
 CursorEventInsights is a web application that allows you to track and analyze cursor movements, key presses, and mouse clicks on a webpage. This tool provides insights into user interactions and behavior, which can be valuable for marketing, user experience optimization, and other purposes.
 
 
+## Demo
+[Live Demo](https://cursor-event-insights.netlify.app/)
+
+
+## Video
+https://github.com/RitickLath/Cursor_Event_Insights/assets/114455908/14746c6c-4c0a-46e7-b79e-22f92cadaf25
+
+
 ## Features
 
 - **Real-time Cursor Tracking**: The application accurately tracks the position of the cursor as it moves across the webpage. The x and y coordinates are displayed in a visually appealing way, allowing you to observe the cursor's path.
